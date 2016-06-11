@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Testing</key>
+	<dict>
+		<key>Server</key>
+		<string>Testing</string>
+		<key>RestServerURL</key>
+		<string>http://192.168.1.29/HEKXORestSvr/HEKXORestSvr.svc</string>
+		<key>ServerURL</key>
+		<string>http://192.168.1.29/HEKXOService/HEKXOService.svc</string>
+		<key>GoogleAnalyticsKey</key>
+		<string>UA-55523459-51</string>
+		<key>BugSenseKey</key>
+		<string>118f8282</string>
+	</dict>
+	<key>Production</key>
+	<dict>
+		<key>Server</key>
+		<string>Production</string>
+		<key>RestServerURL</key>
+		<string>ProductionRESt</string>
+		<key>ServerURL</key>
+		<string>ProductionURL</string>
+		<key>GoogleAnalyticsKey</key>
+		<string>ProductionGoogle</string>
+		<key>BugSenseKey</key>
+		<string>ProductionKEY</string>
+	</dict>
+	<key>Staging</key>
+	<dict>
+		<key>Server</key>
+		<string>Staging</string>
+		<key>RestServerURL</key>
+		<string>StageKeyRESt</string>
+		<key>ServerURL</key>
+		<string>StageKey URL</string>
+		<key>GoogleAnalyticsKey</key>
+		<string>UA-55523459-51</string>
+		<key>BugSenseKey</key>
+		<string>118f8282</string>
+	</dict>
+</dict>
+</plist>
